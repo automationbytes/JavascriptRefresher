@@ -1,3 +1,5 @@
+//all these are primitive datatypes
+
 // String
 // Number
 // Bigint
